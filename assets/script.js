@@ -91,8 +91,9 @@ $(document).ready(function(){
             case "13/6": titulo = "17 de Junho de 2023"; mensagem = "<p>Grande dia esse foi esse , esse foi o dia que estavamos indo buscar a francine na estacão e finalmente tive coragem de te chamar para ficar ,depois de tanta enrolação eu consegui te chamar para ficar e foi incrivel e a francine sendo vip vendo tudo e esperando a gente terminar kkkkkkkk</p>";break;
             case "12/6": titulo = "03 de novembro de 2023"; mensagem = "<p>Esse dia foi muito especial tambem foi o dia q fomos no parque e ficamos o dia inteiro so nos chamegos e carinho ❤️</p>";break;
             case "19/6": titulo = "05 de janeiro de 2024"; mensagem = "<p>A esse dia foi uma emoção q so,primeiro saimos para tomar sorvete, e na volta vemos uma briga de bar e um cara com uma arma ,quer dizer vc viu KKKKK e corremos ,quanta adrenalina para um dia só , e por fim ainda falou que a vida de solteiro ta chata ,ai que dia incrivel seriooooo.</p>";break;
-            case "5/6": titulo = "18 de fevereiro de 2024"; mensagem = "<section class='text-center'><p class='letra-vermelha'><strong>OHHHH bobinha, isso eh hj e este momento está sendo escrito agora...</strong></p></section>";break;
-            case "final": titulo = "18 de Fevereiro de 2024"; mensagem = "<section class='text-center mt-5 mb-5'><p><strong>O dia em que ela disse<br><span class='letra2 letra-vermelha'>SIM</span></strong></p></section>";break;
+            case "5/6": titulo = "23 de fevereiro de 2024"; mensagem = "<section class='text-center'><p class='letra-vermelha'><strong>OHHHH bobinha, isso eh hj e este momento está sendo escrito agora...</strong></p></section>";break;
+            case "5/9": titulo = "18 de fevereiro de 2024"; mensagem = "<p>Isso foi domingo agora e foi incrivel,mesmo nao saindo como eu tinnha planejado temos ficado 3 horas no trem e tudo mais , mas foi perfeito pq oq mais importa eh que passamos o dia juntos e se divertimos e demos risadas, e quero sempre ter esses momentos com vc.</p>";break;
+            case "final": titulo = "23 de Fevereiro de 2024"; mensagem = "<section class='text-center mt-5 mb-5'><p><strong>O dia em que ela disse<br><span class='letra2 letra-vermelha'>SIM</span></strong></p></section>";break;
         }
 
         mostraPopUp(true, titulo, mensagem);
